@@ -26,12 +26,6 @@ This project is a responsive web application that performs full CRUD operations 
 </ul>
 
 <h2>Contribution</h2>
-This was a collaborative project completed with a university partner.  
-We worked together on both front-end and back-end development.  
-Responsibilities were shared as follows:
-
-- <b>Miya Richardson</b>: Front-end design, responsive layout, and CRUD form styling  
-- <b>Project partner</b>: Back-end PHP scripting, database connection, and SQL operations
-
+This was an individual project. All design, coding, and database configuration were done independently.
 <br />
 
